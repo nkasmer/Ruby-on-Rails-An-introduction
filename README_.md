@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Assignment for Module #2: Calculate Maximum Word Frequency
 
 The overall goal of the assignment is to write a Ruby class and work with
@@ -178,3 +179,7 @@ with a different test.txt.
 ```
 
 #### Updated: 2015-10-10a
+=======
+# Ruby-on-Rails-An-introduction
+A repo for commiting my graded assignments
+>>>>>>> origin/master
